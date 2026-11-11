@@ -1,0 +1,31 @@
+# Local calibration, custom rules and imported/exported user settings
+config.json
+config.tmp
+*.local.json
+.env
+.env.*
+*.pem
+*.key
+
+# Generated records and diagnostics
+runs/
+last-error.txt
+process-diagnostics.txt
+*.log
+*.tmp
+
+# Python and release outputs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+runtime/
+dist/
+build/
+*.zip
+
+# Editors and OS metadata
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini

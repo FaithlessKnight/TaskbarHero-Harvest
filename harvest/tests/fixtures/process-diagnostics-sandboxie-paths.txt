@@ -1,0 +1,8 @@
+多开诊断：2026-01-01T00:00:00+08:00
+助手 PID 20616，会话 2；目标路径：d:\x86\steam\steamapps\common\taskbarhero\taskbarhero.exe
+系统快照中有 4 个 TaskBarHero.exe，当前可加入队列 1 个。
+PID 456（会话 2）：已加入队列；路径：D:\X86\STEAM\steamapps\common\TaskbarHero\TaskBarHero.exe
+PID 9260（会话 2）：未加入队列；安装路径不匹配：C:\Sandbox\example-user\zw\drive\D\X86\STEAM\steamapps\common\TaskbarHero\TaskBarHero.exe；请将助手放到这份游戏目录的 harvest 文件夹内
+PID 17596（会话 2）：未加入队列；安装路径不匹配：C:\Sandbox\example-user\jz\drive\D\X86\STEAM\steamapps\common\TaskbarHero\TaskBarHero.exe；请将助手放到这份游戏目录的 harvest 文件夹内
+PID 21964（会话 2）：未加入队列；安装路径不匹配：C:\Sandbox\example-user\csh\drive\D\X86\STEAM\steamapps\common\TaskbarHero\TaskBarHero.exe；请将助手放到这份游戏目录的 harvest 文件夹内
+诊断只读取进程及窗口信息；不激活窗口、不按空格、不执行收菜。系统进程数量与当前桌面可操作窗口数量可以不同，无法核实身份的进程不会强行操作。

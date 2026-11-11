@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "points": {},
+  "regions": {},
+  "learned": {},
+  "bag_columns": 7,
+  "bag_rows": 3,
+  "bag_total_rows": 15,
+  "warehouse_columns": 7,
+  "warehouse_rows": 7,
+  "hover_seconds": 1.2,
+  "action_interval_seconds": 0.8,
+  "max_batches": 20,
+  "auto_interval_minutes": 30,
+  "supplemental_items": [],
+  "corrosion_selection": {
+    "equipment": [
+      "普通",
+      "罕见",
+      "稀有"
+    ],
+    "material": [
+      "普通",
+      "罕见",
+      "稀有",
+      "传奇",
+      "不朽"
+    ]
+  }
+}
