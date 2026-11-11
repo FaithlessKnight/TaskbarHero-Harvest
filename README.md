@@ -1,6 +1,6 @@
 # TaskbarHero-Harvest
 
-TaskbarHero 收菜助手 **1.49** · 作者 **TheFallen**
+TaskbarHero 收菜助手 **1.49**
 
 通过 Windows 截图、系统 OCR 和鼠标键盘快捷键，自动整理背包、腐蚀物品、存入仓库并进行九件装备合成。界面使用 Python / Tkinter，无需 pip 依赖。
 
